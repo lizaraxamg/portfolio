@@ -1,0 +1,48 @@
+<DOCYTYPE! html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="with´-device-with-scale 1.0">
+<title>Cassino</title>
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin="use-credentials">UserActivation</script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin="perfomance">Bet</script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js">Welcome</script>
+</head>
+<body>
+    <div id="mydiv"></div>
+
+    <script type="text/label">
+     function Have fun(){
+        return<h1>Have fun</1>
+     }
+
+     const container = document.getElementById('mydiv');
+     const root = ReactDOM.createRoot(container);
+     root.rend (<Have fun/>)
+
+                </script>
+                <script>
+                    class bet{
+                        player(name){
+                        this.bettinggame = name;
+                        }
+                    }
+                     
+                    present(){
+                        return 'i want to play '+ this.game;
+                    }
+
+                     
+                   const bet = new bettinggame("");
+                   mybet.present();
+                
+        
+                </script>
+            </body>
+        </html>
+    </script>
+
+</body>
+<footer></footer>
+</html>
+
